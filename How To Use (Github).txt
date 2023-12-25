@@ -1,0 +1,33 @@
+Free Download Source Code "Website dan ChatBot Application System"
+
+1. FIRST Download
+    - XAMPP
+    - "TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+
+2. Download the zip file/ download winrar
+
+3. Extract file "rashela"  yang berisi source code website
+    Extract file "chatbot1" yang berisi source code chatbot
+
+4. Paste inside root directory/where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs)
+
+6. Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+7. Create a database with name rashela (untuk website)
+    Create a database with name chatbot_db (untuk chatbot)  
+   
+8. Import rashela.sql file(untuk untuk website)
+    Import chatbot_db.sql file(untuk chatbot)
+
+9. Run the script untuk Website localhost/rashela
+    Run the script untuk Chatbot localhost/chatbot1
+    Run the script untuk Chatbot Admin localhost/chatbot1/admin    
+    **LOGIN DETAILS FOR DASBOARD ADMIN CHATBOT** 
+	
+	Admin
+	user: admin
+	pass: admin123
+
+
+****** Link Source Code : https://github.com/sherlydyahpuspita/RASHELA_2023 ******
+Subcribe Our YouTube Channel  **** https://youtu.be/U-gmYc6eivI ****
